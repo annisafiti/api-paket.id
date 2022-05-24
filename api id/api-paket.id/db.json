@@ -1,0 +1,80 @@
+{
+    "status": {
+      "success": 1
+    },
+    "from_detail": {
+      "name": "Dika",
+      "address": "Jln Rawa Kepa Raya No 50",
+      "area": null,
+      "state": null,
+      "zip_code": "",
+      "country": null,
+      "country_code": "ID",
+      "phone": "089622245655"
+    },
+    "to_detail": {
+      "name": "Desiana",
+      "address": "Jl Pegangsaan 12 Komp. Gading Arcadia Blok A No. 222",
+      "area": null,
+      "state": null,
+      "zip_code": "",
+      "country": null,
+      "country_code": "ID",
+      "phone": "081619422272339"
+    },
+    "additional_info": {
+      "message": "",
+      "content": "",
+      "value": null,
+      "insurance": null,
+      "max_cost": null,
+      "note": ""
+    },
+    "booking_detail": {
+      "booking_code": "DCYBE",
+      "booking_date": "2016-01-27",
+      "expiry_date": "2016-02-26",
+      "reference_code": "ID270116DCYBE",
+      "status": "1",
+      "status_msg": "sent",
+      "created_from": "PaketIDWeb"
+    },
+    "shipment": {
+      "vendor": {
+        "code": "tiki",
+        "name": "Tiki"
+      },
+      "service": {
+        "code": null,
+        "name": null
+      },
+      "detail": {
+        "airway_bill": "310155454612",
+        "weight": null,
+        "dimension": null,
+        "volume": null,
+        "volumetric_weight": "10",
+        "eta": null
+      },
+      "tariff": {
+        "value": "10000.00",
+        "unit_code": "Rp",
+        "unit_name": "Rupiah",
+        "unit_symbol": "Rp"
+      }
+    },
+    "tracking_history": [
+      {
+        "datetime": "2016-09-13 13:17:13",
+        "status": "Package has been processed!"
+      },
+      {
+        "datetime": "2016-09-13 14:16:18",
+        "status": "With delivery courier"
+      },
+      {
+        "datetime": "2016-09-13 15:20:00",
+        "status": "Packaged with PL#1823"
+      }
+    ]
+  }
